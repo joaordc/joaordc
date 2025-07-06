@@ -27,6 +27,11 @@ Here are some areas I've been exposed to, either by working with them directly o
   - Italian;
   - Spanish (working on it).
 
+### Past Projects
+- [Clef: A musical game using Spotify API](https://github.com/me50/Joaorod006/tree/cs50/problems/2022/x/project)
+- [Mediachain: Blockchain-powered app for creators' earnings](https://github.com/ivolavacek/lumx-hack-last-chance)
+
+
 I'm very open to collaboration. If you'd like to reach me, feel free to hit me up at [my email](mailto:joaoroddias@gmail.com).
 
 Thanks for visiting!
