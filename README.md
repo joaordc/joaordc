@@ -2,7 +2,7 @@
 
 I'm **João Rodrigo**, a young developer from Rio de Janeiro, Brazil, interested in emerging technologies and hackathons. 
 
-### My stacks
+### My stack
 [![My Skills](https://skillicons.dev/icons?i=c,rust,solidity,js,html,css,react,vite,figma,git)](https://skillicons.dev) 
 
 ### Habilities
