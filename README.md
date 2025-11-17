@@ -3,19 +3,7 @@
 I'm **João Rodrigo**, a young developer from Rio de Janeiro, Brazil, interested in emerging technologies and hackathons. 
 
 ### My stack
-[![My Skills](https://skillicons.dev/icons?i=c,rust,solidity,js,html,css,react,vite,figma,git)](https://skillicons.dev) 
-
-### Habilities
-
-Here are some areas I've been exposed to, either by working with them directly or by learning through books.
-- Business & Entrepeneurship
-  - Fundamental Analysis on capital markets;
-  - Strategic assesment tools (SWOT, Porters);
-  - Branding and Marketing.
-- Software engineering
-  - Figma prototyping and design;
-  - BPMN process modeling;
-  - Project management methodologies.
+[![My Skills](https://skillicons.dev/icons?i=c,rust,solidity,js,react,vite,lua,figma,git)](https://skillicons.dev) 
 
 ### I speak
   - Portuguese;
