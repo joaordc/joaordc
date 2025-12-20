@@ -3,13 +3,20 @@
 I'm **João Rodrigo**, a young developer from Rio de Janeiro, Brazil, interested in blockchain and open-source developing. 
 
 ### My stack
-[![My Skills](https://skillicons.dev/icons?i=rust,c,solidity,py,js,react,vite,lua,figma,git)](https://skillicons.dev) 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,c,solidity,js,html,css,py,react,vite,figma,git&theme=dark" />
+  </a>
+</p>
+
+<br>
 
 ### I speak
-  - Portuguese;
-  - English;
-  - Italian;
-  - Spanish (working on it).
+<p align="center">
+🇵🇹 Português &nbsp;&nbsp;•&nbsp;&nbsp; 🇺🇸 English &nbsp;&nbsp;•&nbsp;&nbsp; 🇮🇹 Italiano &nbsp;&nbsp;•&nbsp;&nbsp; 🇪🇸 Español (working on it)
+</p>
+
+<br>
 
 ### Past Projects
 - [Clef: A web app built using Python, Flask, and Spotify's API](https://github.com/joaordc/clef)
