@@ -3,7 +3,7 @@
 I'm **João Rodrigo**, a young developer from Rio de Janeiro, Brazil, interested in blockchain and open-source developing. 
 
 ### My stack
-[![My Skills](https://skillicons.dev/icons?i=c,rust,solidity,js,react,vite,lua,figma,git)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=rust,c,solidity,py,js,react,vite,lua,figma,git)](https://skillicons.dev) 
 
 ### I speak
   - Portuguese;
