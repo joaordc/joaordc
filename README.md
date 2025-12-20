@@ -12,8 +12,8 @@ I'm **João Rodrigo**, a young developer from Rio de Janeiro, Brazil, interested
   - Spanish (working on it).
 
 ### Past Projects
-- [Clef: A web game built with Python, Flask, and Spotify's API](https://github.com/joaordc/clef)
-- [Pac-Man: A 3D reinterpretaion of the classic game, made in C](https://github.com/joaordc/pac-man)
+- [Clef: A web app built using Python, Flask, and Spotify's API](https://github.com/joaordc/clef)
+- [Pac-Man: A 3D reinterpretation of the classic game, made in C](https://github.com/joaordc/pac-man)
 
 
 I'm very open to collaboration. If you'd like to reach me, feel free to hit me up at [my email](mailto:joaoroddias@gmail.com).
